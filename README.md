@@ -4,7 +4,7 @@ This is a fork of LLVMTA built by University of Saarland, you can find their ver
 
 # LLVMTA
 
-This Repository contains LLVMTA a static timing analysis tool based on the LLVM compiler ecosystem.
+This Repository contains LLVMTA a static timing analysis tool based on the LLVM compiler ecosystem. **And CSL is working on this branch now.**
 
 ## Setup with VS Code and Docker development container
 
